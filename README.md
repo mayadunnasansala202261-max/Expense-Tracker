@@ -119,8 +119,9 @@ expense-tracker/
 | ![e4](e4.PNG) | **Income Page** – Add and manage income      |
 | ![e5](e5.PNG) | **Expense Page** – Category-wise expenses    |
 | ![e6](e6.PNG) | **Budget Page** – Monthly budget setup       |
-| ![e7](e7.PNG) | **PDF Export** – Download financial report   |
-| ![e8](e8.PNG) | **Excel Export** – Download transaction data |
+| ![e7](e7.PNG) | **PDF/Eecel Export** – Download button       |
+| ![e8](e8.PNG) | **PDF Export** – Download financial report   |
+| ![e9](e9.PNG) | **Excel Export** – Download transaction data |
 
 ---
 
@@ -139,8 +140,8 @@ expense-tracker/
 4. **Income Page (e4)** – Manage income entries
 5. **Expense Page (e5)** – Add categorized expenses
 6. **Budget Page (e6)** – Set monthly budget
-7. **PDF Export (e7)** – Download report with charts
-8. **Excel Export (e8)** – Download full transaction list
+7. **PDF Export (e8)** – Download report with charts
+8. **Excel Export (e9)** – Download full transaction list
 
 ---
 
